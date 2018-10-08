@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: multi-datasource
+  
+logging:  level:    dev.local.multidatasource.dao.mapper: debug
